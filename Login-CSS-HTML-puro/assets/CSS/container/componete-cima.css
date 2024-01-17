@@ -1,0 +1,32 @@
+.link_volta{
+    position: absolute;
+    overflow: visible;
+    display: flex;
+    width: 150px;
+    left: 120px;    
+    height: 50%;
+    bottom: 267px;
+
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: none;
+    
+    color: #000000;
+
+    z-index: auto;
+}
+
+
+
+.link_imagem{
+    position:absolute;
+    display: flex;
+    width: 70px;
+    height: 50px;
+    bottom: 537px;
+    padding: 24px;
+    margin: auto;
+    left: 24px;
+    
+    z-index: auto;
+}   
